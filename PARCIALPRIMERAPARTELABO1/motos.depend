@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1602631285 source:e:\guille\universidad el retorno\programacion\abm\veterinaria\motos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeomotos.h"
+
+1602630495 e:\guille\universidad el retorno\programacion\abm\veterinaria\motos\datastoremotos.h
+
+1602631226 source:e:\guille\universidad el retorno\programacion\abm\veterinaria\motos\harcodeomotos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeomotos.h"
+	"dataStoreMotos.h"
+
+1602631205 e:\guille\universidad el retorno\programacion\abm\veterinaria\motos\harcodeomotos.h
+
+1602631378 source:e:\guille\universidad el retorno\programacion\abm\veterinaria\motos\altamotos.c
+
